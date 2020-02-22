@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Richmond Quarshie
+I am a student
 
-You can use the [editor on GitHub](https://github.com/Rxchmondd/rxchmond.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Clarksburg High school 2016-2020
 
 ```markdown
 Syntax highlighted code block
