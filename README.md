@@ -1,35 +1,22 @@
-## Richmond Quarshie
+# Richmond Quarshie
 I am a student
 
 
 ### Education
-
 Clarksburg High school 2016-2020
 
-```markdown
-Syntax highlighted code block
+### Projects 
+BDPA — Web Development
+2019-2020
+My team and I were put in charge of developing a state-wide web application that could manage votes and store a database of voter information. 
 
-# Header 1
-## Header 2
-### Header 3
+### Skills
+I have worked with several programming languages such as HTML, CSS, python, java, MySQL, PHP, and javascript.
 
-- Bulleted
-- List
+I have over 4 years of experience in graphic design using applications such as Adobe Photoshop and Adobe illustrator.
 
-1. Numbered
-2. List
+I also have a small amount of experience in video editing using programs such as Sony Vegas and Adobe after effects
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rxchmondd/rxchmond.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Awards 
+Recognized as one of the few national champions of the BDPA high school coding competition
+Chosen as one of few to give a short speech to the ITF board in honor of the gifting of a refurbished computer lab to the Montessori society of Ashton
