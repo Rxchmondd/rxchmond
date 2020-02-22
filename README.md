@@ -1,5 +1,5 @@
 # Richmond Quarshie
-I am a student
+I am a senior at clarksburg highschool interested in computer science and programming. 
 
 
 ### Education
@@ -19,4 +19,7 @@ I also have a small amount of experience in video editing using programs such as
 
 ### Awards 
 Recognized as one of the few national champions of the BDPA high school coding competition
+ 
+Member of the National Tech Honor Society at my high school
+
 Chosen as one of few to give a short speech to the ITF board in honor of the gifting of a refurbished computer lab to the Montessori society of Ashton
